@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1281. Subtract the Product and Sum of Digits of an Integer/1281. Subtract the Product and Sum of Digits of an Integer.iml" filepath="$PROJECT_DIR$/1281. Subtract the Product and Sum of Digits of an Integer/1281. Subtract the Product and Sum of Digits of an Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1491. Average Salary Excluding the Minimum and Maximum Salary/1491. Average Salary Excluding the Minimum and Maximum Salary.iml" filepath="$PROJECT_DIR$/1491. Average Salary Excluding the Minimum and Maximum Salary/1491. Average Salary Excluding the Minimum and Maximum Salary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1523. Count Odd Numbers in an Interval Range/1523. Count Odd Numbers in an Interval Range.iml" filepath="$PROJECT_DIR$/1523. Count Odd Numbers in an Interval Range/1523. Count Odd Numbers in an Interval Range.iml" />
+      <module fileurl="file://$PROJECT_DIR$/191. Number of 1 Bits/191. Number of 1 Bits.iml" filepath="$PROJECT_DIR$/191. Number of 1 Bits/191. Number of 1 Bits.iml" />
       <module fileurl="file://$PROJECT_DIR$/392. Is Subsequence/392. Is Subsequence.iml" filepath="$PROJECT_DIR$/392. Is Subsequence/392. Is Subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/AddTwoNumbers/AddTwoNumbers.iml" filepath="$PROJECT_DIR$/AddTwoNumbers/AddTwoNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
