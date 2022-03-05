@@ -1,4 +1,4 @@
-public class Solution{
+public class Solution {
 
     public static int romanToInt(String str) {
         int[] a = new int[26];
@@ -11,8 +11,8 @@ public class Solution{
         a['M' - 'A'] = 1000;
         char prev = 'A';
         int sum = 0;
-        for(char s : str.toCharArray()) {
-            if(a[s - 'A'] > a[prev - 'A']) {
+        for (char s : str.toCharArray()) {
+            if (a[s - 'A'] > a[prev - 'A']) {
                 sum = sum - 2 * a[prev - 'A'];
             }
             sum = sum + a[s - 'A'];

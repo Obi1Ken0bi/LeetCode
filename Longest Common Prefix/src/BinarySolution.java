@@ -1,4 +1,9 @@
 public class BinarySolution {
+    public static void main(String[] args) {
+        BinarySolution binarySolution = new BinarySolution();
+        System.out.println(binarySolution.longestCommonPrefix(new String[]{"aboba", "abob", "abba", "abobus"}));
+    }
+
     public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0)
             return "";
@@ -17,16 +22,11 @@ public class BinarySolution {
         return strs[0].substring(0, (low + high) / 2);
     }
 
-    private boolean isCommonPrefix(String[] strs, int len){
-        String str1 = strs[0].substring(0,len);
+    private boolean isCommonPrefix(String[] strs, int len) {
+        String str1 = strs[0].substring(0, len);
         for (int i = 1; i < strs.length; i++)
             if (!strs[i].startsWith(str1))
                 return false;
         return true;
-    }
-
-    public static void main(String[] args) {
-        BinarySolution binarySolution=new BinarySolution();
-      System.out.println(  binarySolution.longestCommonPrefix(new String[]{"aboba", "abob","abba","abobus"}));
     }
 }

@@ -1,5 +1,9 @@
-
 public class Solution {
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        System.out.println(sol.longestCommonPrefix(new String[]{"aboba", "abob", "abba", "abobus"}));
+    }
+
     public String longestCommonPrefix(String[] strs) {
         if (strs.length == 0) return "";
         String prefix = strs[0];
@@ -9,10 +13,5 @@ public class Solution {
                 if (prefix.isEmpty()) return "";
             }
         return prefix;
-    }
-
-    public static void main(String[] args) {
-        Solution sol=new Solution();
-       System.out.println( sol.longestCommonPrefix(new String[]{"aboba", "abob","abba","abobus"}));
     }
 }
