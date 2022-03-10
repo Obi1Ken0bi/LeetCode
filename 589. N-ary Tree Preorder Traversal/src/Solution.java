@@ -5,7 +5,8 @@ class Node {
     public int val;
     public List<Node> children;
 
-    public Node() {}
+    public Node() {
+    }
 
     public Node(int _val) {
         val = _val;
@@ -21,7 +22,7 @@ class Node {
 class Solution {
     public List<Integer> preorder(Node root) {
         List<Integer> result = new ArrayList<Integer>();
-        if(root!=null) {
+        if (root != null) {
             result.add(root.val);
             for (Node n : root.children
             ) {
