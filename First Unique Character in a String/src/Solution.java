@@ -1,6 +1,11 @@
 import java.util.HashMap;
 
 public class Solution {
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+        System.out.println(solution.firstUniqChar("lteel"));
+    }
+
     public int firstUniqChar(String s) {
         HashMap<Character, Integer> count = new HashMap<>();
         int n = s.length();
@@ -13,10 +18,5 @@ public class Solution {
                 return i;
         }
         return -1;
-    }
-
-    public static void main(String[] args) {
-        Solution solution=new Solution();
-        System.out.println(solution.firstUniqChar("lteel"));
     }
 }
