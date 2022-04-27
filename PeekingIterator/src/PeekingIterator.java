@@ -8,7 +8,7 @@ class PeekingIterator implements Iterator<Integer> {
     public PeekingIterator(Iterator<Integer> iterator) {
         // initialize any member here.
         iter = iterator;
-        if(hasNext()) next = iter.next();
+        if (hasNext()) next = iter.next();
     }
 
     // Returns the next element in the iteration without advancing the iterator.
@@ -21,7 +21,7 @@ class PeekingIterator implements Iterator<Integer> {
     @Override
     public Integer next() {
         Integer currVal = next;
-        if(iter.hasNext())
+        if (iter.hasNext())
             next = iter.next();
         else
             next = null;

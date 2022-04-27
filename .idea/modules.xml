@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/1202.SmallestStringWithSwaps/1202.SmallestStringWithSwaps.iml" filepath="$PROJECT_DIR$/1202.SmallestStringWithSwaps/1202.SmallestStringWithSwaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/1281. Subtract the Product and Sum of Digits of an Integer/1281. Subtract the Product and Sum of Digits of an Integer.iml" filepath="$PROJECT_DIR$/1281. Subtract the Product and Sum of Digits of an Integer/1281. Subtract the Product and Sum of Digits of an Integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/1290. Convert Binary Number in a Linked List to Integer/1290. Convert Binary Number in a Linked List to Integer.iml" filepath="$PROJECT_DIR$/1290. Convert Binary Number in a Linked List to Integer/1290. Convert Binary Number in a Linked List to Integer.iml" />
       <module fileurl="file://$PROJECT_DIR$/1309. Decrypt String from Alphabet to Integer Mapping/1309. Decrypt String from Alphabet to Integer Mapping.iml" filepath="$PROJECT_DIR$/1309. Decrypt String from Alphabet to Integer Mapping/1309. Decrypt String from Alphabet to Integer Mapping.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/1790. Check if One String Swap Can Make Strings Equal/1790. Check if One String Swap Can Make Strings Equal.iml" filepath="$PROJECT_DIR$/1790. Check if One String Swap Can Make Strings Equal/1790. Check if One String Swap Can Make Strings Equal.iml" />
       <module fileurl="file://$PROJECT_DIR$/1822. Sign of the Product of an Array/1822. Sign of the Product of an Array.iml" filepath="$PROJECT_DIR$/1822. Sign of the Product of an Array/1822. Sign of the Product of an Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/191. Number of 1 Bits/191. Number of 1 Bits.iml" filepath="$PROJECT_DIR$/191. Number of 1 Bits/191. Number of 1 Bits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20.ValidParentheses/20.ValidParentheses.iml" filepath="$PROJECT_DIR$/20.ValidParentheses/20.ValidParentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/217. Contains Duplicate/217. Contains Duplicate.iml" filepath="$PROJECT_DIR$/217. Contains Duplicate/217. Contains Duplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/232. Implement Queue using Stacks/232. Implement Queue using Stacks.iml" filepath="$PROJECT_DIR$/232. Implement Queue using Stacks/232. Implement Queue using Stacks.iml" />
       <module fileurl="file://$PROJECT_DIR$/242. Valid Anagram/242. Valid Anagram.iml" filepath="$PROJECT_DIR$/242. Valid Anagram/242. Valid Anagram.iml" />
@@ -27,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/392. Is Subsequence/392. Is Subsequence.iml" filepath="$PROJECT_DIR$/392. Is Subsequence/392. Is Subsequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/4. Median of Two Sorted Arrays/4. Median of Two Sorted Arrays.iml" filepath="$PROJECT_DIR$/4. Median of Two Sorted Arrays/4. Median of Two Sorted Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/538._Convert_BST_to_Greater_Tree/538._Convert_BST_to_Greater_Tree.iml" filepath="$PROJECT_DIR$/538._Convert_BST_to_Greater_Tree/538._Convert_BST_to_Greater_Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/55.JumpGame/55.JumpGame.iml" filepath="$PROJECT_DIR$/55.JumpGame/55.JumpGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/589. N-ary Tree Preorder Traversal/589. N-ary Tree Preorder Traversal.iml" filepath="$PROJECT_DIR$/589. N-ary Tree Preorder Traversal/589. N-ary Tree Preorder Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/709. To Lower Case/709. To Lower Case.iml" filepath="$PROJECT_DIR$/709. To Lower Case/709. To Lower Case.iml" />
       <module fileurl="file://$PROJECT_DIR$/AddTwoNumbers/AddTwoNumbers.iml" filepath="$PROJECT_DIR$/AddTwoNumbers/AddTwoNumbers.iml" />
